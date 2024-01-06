@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/momtaz/Desktop/temp2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\Users\\momtaz\\Desktop\\temp2\\main.cpp",
+  "file": "C:/Users/momtaz/Desktop/temp2/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/momtaz/Desktop/temp2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\source\\location.cpp.obj -c C:\\Users\\momtaz\\Desktop\\temp2\\source\\location.cpp",
+  "file": "C:/Users/momtaz/Desktop/temp2/source/location.cpp",
+  "output": "CMakeFiles/app.dir/source/location.cpp.obj"
+},
+{
+  "directory": "C:/Users/momtaz/Desktop/temp2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\source\\user.cpp.obj -c C:\\Users\\momtaz\\Desktop\\temp2\\source\\user.cpp",
+  "file": "C:/Users/momtaz/Desktop/temp2/source/user.cpp",
+  "output": "CMakeFiles/app.dir/source/user.cpp.obj"
+},
+{
+  "directory": "C:/Users/momtaz/Desktop/temp2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\source\\map.cpp.obj -c C:\\Users\\momtaz\\Desktop\\temp2\\source\\map.cpp",
+  "file": "C:/Users/momtaz/Desktop/temp2/source/map.cpp",
+  "output": "CMakeFiles/app.dir/source/map.cpp.obj"
+},
+{
+  "directory": "C:/Users/momtaz/Desktop/temp2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\source\\enemy.cpp.obj -c C:\\Users\\momtaz\\Desktop\\temp2\\source\\enemy.cpp",
+  "file": "C:/Users/momtaz/Desktop/temp2/source/enemy.cpp",
+  "output": "CMakeFiles/app.dir/source/enemy.cpp.obj"
+}
+]
